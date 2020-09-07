@@ -1,0 +1,23 @@
+body{
+  background-color: green;
+  width: 500px;
+  color: #fdffff;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #337ab7;
+  border-style: none;
+}
+
+button:hover{
+  cursor: pointer;
+  opacity: 0.8;
+  transition: opacity,0.2s;
+}
+
+input {
+  height: 25px;
+}
